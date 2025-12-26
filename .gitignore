@@ -1,0 +1,17 @@
+# Virtual environment
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Environment files
+.env
+
+# OS junk
+.DS_Store
+
+# Vector DB artifacts (optional)
+faiss_index/
+*.faiss
+*.pkl
